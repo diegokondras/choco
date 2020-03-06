@@ -1,8 +1,9 @@
 choco install chocolatey.server
 
 choco source add -n=server -s="http://10.0.2.15/chocolatey" -u=choco -p=rocks
+choco source
 
-Executar script:
+Executar o script:
 https://chocolatey.org/docs/how-to-setup-internal-package-repository
 
 
